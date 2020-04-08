@@ -89,7 +89,7 @@ a {
 }
 
 header {
-  height: 65px;
+  height: 70px;
   width: 100%;
   background-color: rgba(34, 49, 52, 0.9);
   position: fixed;
@@ -99,7 +99,6 @@ header {
 
 .logo {
   width: 124px;
-  margin-top: 20px;
 }
 
 .header-left {
